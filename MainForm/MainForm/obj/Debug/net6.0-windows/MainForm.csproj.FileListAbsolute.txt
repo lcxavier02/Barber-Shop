@@ -1,0 +1,7 @@
+C:\Users\xvelazquez\source\repos\MainForm\MainForm\obj\Debug\net6.0-windows\MainForm.csproj.AssemblyReference.cache
+C:\Users\xvelazquez\source\repos\MainForm\MainForm\obj\Debug\net6.0-windows\BarberShopApp.MainForm.resources
+C:\Users\xvelazquez\source\repos\MainForm\MainForm\obj\Debug\net6.0-windows\MainForm.csproj.GenerateResource.cache
+C:\Users\xvelazquez\source\repos\MainForm\MainForm\obj\Debug\net6.0-windows\MainForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xvelazquez\source\repos\MainForm\MainForm\obj\Debug\net6.0-windows\MainForm.AssemblyInfoInputs.cache
+C:\Users\xvelazquez\source\repos\MainForm\MainForm\obj\Debug\net6.0-windows\MainForm.AssemblyInfo.cs
+C:\Users\xvelazquez\source\repos\MainForm\MainForm\obj\Debug\net6.0-windows\MainForm.csproj.CoreCompileInputs.cache
